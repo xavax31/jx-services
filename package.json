@@ -1,28 +1,4 @@
 {
-  "_from": "jx-services",
-  "_id": "jx-services@0.0.2",
-  "_inBundle": false,
-  "_integrity": "sha512-h9D4KEs7o4SDRN+E6hTA2oDU5ujW+0A9kgkEVOkdaUzbr8oo3H2czl6zYV8LN0jFItwBPQ3BWiqo1zlFliVBBg==",
-  "_location": "/jx-services",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "jx-services",
-    "name": "jx-services",
-    "escapedName": "jx-services",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/jx-services/-/jx-services-0.0.2.tgz",
-  "_shasum": "d84335154169c5c454d3eb31a10f9bc825382d5e",
-  "_spec": "jx-services",
-  "_where": "/Users/xb/Documents/_xb/lab-editor/dev/mp-framework/current/server/node",
 
   "name": "jx-services",
     "version": "0.0.3",
