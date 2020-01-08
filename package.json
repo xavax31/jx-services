@@ -1,0 +1,19 @@
+{
+  "name": "jx-services",
+  "version": "0.0.1",
+  "description": "",
+  "homepage": "",
+
+  "author": {
+    "name": "xbo",
+    "email": "xb@monrepere.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+   },
+  "main": "./index",
+  "scripts": {
+  }
+}
