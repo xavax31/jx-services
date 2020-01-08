@@ -1,25 +1,19 @@
 {
-
   "name": "jx-services",
-    "version": "0.0.3",
-    "description": "",
-    "homepage": "",
-  
-    "author": {
-      "name": "xbo",
-      "email": "xb@monrepere.com"
-    },
-    "license": "MIT",
-    "dependencies": {
-      "archiver": "^0.15.1",
-      "fs-extra": "^2.1.2",
-      "unzip2": "^0.2.5"
-  
-    },
-    "devDependencies": {
-     },
-    "main": "./index",
-    "scripts": {
-    }
-  }
-  
+  "version": "0.0.3",
+  "description": "",
+  "homepage": "",
+  "author": {
+    "name": "xbo",
+    "email": "xb@monrepere.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "archiver": "^0.15.1",
+    "fs-extra": "^2.1.2",
+    "unzip2": "^0.2.5"
+  },
+  "devDependencies": {},
+  "main": "./index",
+  "scripts": {}
+}
