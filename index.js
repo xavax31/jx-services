@@ -33,7 +33,7 @@ var execFromExpress = (req, res)=>{
 	    });
 	}
 }
-// test 1.0.2
+
 module.exports = {
 	execFromExpress: execFromExpress,
 	test: require("./services/test").run,
